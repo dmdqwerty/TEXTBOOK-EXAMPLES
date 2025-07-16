@@ -1,0 +1,5 @@
+cifar-10-python.tar.gz
+*/cifar10_data/
+*.pth
+*.tar.gz
+lec10-11/cropped_cats/
